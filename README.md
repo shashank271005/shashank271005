@@ -2,14 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=shashank271005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <img align="left" height="250" src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754372988/Group_48424_ikkvfw.png"  />
 
 ###
@@ -90,6 +82,16 @@
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=shashank271005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank271005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ###
 
