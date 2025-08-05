@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="240" src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754370690/gymghiflified_s1ubxz.png"  />
+<img align="right" height="250" src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754372988/Group_48424_ikkvfw.png"  />
 
 ###
 
