@@ -1,7 +1,7 @@
 <h1 align="center">𝕊ℍ𝔸𝕊ℍ𝔸ℕ𝕂 𝕊𝕀ℕ𝔾ℍ</h1>
 
 ###
-![Snake animation](https://github.com/shashank271005/shashank271005/raw/output/snake.svg)
+
 <br clear="both">
 
 <div align="left">
@@ -95,6 +95,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="" />
 
 ###
