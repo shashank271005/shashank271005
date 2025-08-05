@@ -45,8 +45,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
