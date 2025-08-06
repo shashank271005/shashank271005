@@ -83,7 +83,7 @@
 
 ###
 
-<img align="right" height="300" src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754372988/Group_48424_ikkvfw.png"  />
+<!-- <img align="right" height="300" src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754372988/Group_48424_ikkvfw.png"  /> -->
 
 ###
 
