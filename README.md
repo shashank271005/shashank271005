@@ -51,6 +51,12 @@
 
 ###
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@shashanksingh3508" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -124,8 +130,4 @@
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"  />
 </div>
 
-###
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="Snake animation" />
-</div>
