@@ -49,13 +49,15 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
+
+
 ###
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="Snake animation" /> 
-</div>
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashank271005/shashank271005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashank271005/shashank271005/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ###
@@ -92,14 +94,13 @@
   
 </div>
 
-
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashank271005/shashank271005/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashank271005/shashank271005/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="Snake animation" /> 
+</div>
+
+
 
 
 
