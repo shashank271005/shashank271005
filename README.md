@@ -104,6 +104,9 @@
 ###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zukfuh3nrhn135vsfle913fz4)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zukfuh3nrhn135vsfle913fz4&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zukfuh3nrhn135vsfle913fz4&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zukfuh3nrhn135vsfle913fz4&unique={true|1|on|yes})
 
 ###
 
