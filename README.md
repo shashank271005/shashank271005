@@ -127,11 +127,5 @@
 ###
 
 
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="" />
-
-###
+<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="Snake animation" />
+##
