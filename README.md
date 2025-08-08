@@ -94,6 +94,11 @@
  <a href="https://gitlab.com/shashank271005" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
+
+  <a href="https://gitlab.com/shashank271005" target="_blank">
+  <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754640670/Adobe_Express_-_file_1_sajl2l.png" alt="pinterest logo" width="600"/>
+</a>
+
   
 </div>
 
