@@ -96,7 +96,7 @@
   </a>
 
   <a href="https://gitlab.com/shashank271005" target="_blank">
-  <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754640670/Adobe_Express_-_file_1_sajl2l.png" alt="pinterest logo" width="35"/>
+  <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754640670/Adobe_Express_-_file_1_sajl2l.png" alt="pinterest logo" width="80"/>
 </a>
 
   
