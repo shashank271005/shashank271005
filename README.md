@@ -96,7 +96,7 @@
   </a>
 
   <a href="https://gitlab.com/shashank271005" target="_blank">
-  <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754641036/aaaaaaaaaaaaaaaaaaaa_qmedb7.png" alt="pinterest logo" width="150"/>
+  <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754641036/aaaaaaaaaaaaaaaaaaaa_qmedb7.png" alt="pinterest logo" width="110"/>
 </a>
 
   
