@@ -99,6 +99,11 @@
   <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754641036/aaaaaaaaaaaaaaaaaaaa_qmedb7.png" alt="pinterest logo" width="110"/>
 </a>
 
+<a href="https://in.pinterest.com/singshashank7/_profile/">
+  <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754641036/aaaaaaaaaaaaaaaaaaaa_qmedb7.png" alt="pinterest logo" width="120"/>
+</a>
+
+
   
 </div>
 
