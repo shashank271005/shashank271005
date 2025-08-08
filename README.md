@@ -100,7 +100,7 @@
 ###
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="Snake animation" /> 
+<img src="https://raw.githubusercontent.com/shashank271005/shashank271005/output/snake.svg" alt="Snake animation" />
 </div>
 
 
