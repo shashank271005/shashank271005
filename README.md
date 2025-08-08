@@ -98,11 +98,11 @@
   </a>
 
 
-<a href="https://in.pinterest.com/singshashank7/_profile/">
+<a href="https://in.pinterest.com/singshashank7/_profile/" target="_blank">
   <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754641036/aaaaaaaaaaaaaaaaaaaa_qmedb7.png" alt="pinterest logo" width="120"/>
 </a>
 
-<a href="https://ssportfolio23154013.vercel.app/">
+<a href="https://ssportfolio23154013.vercel.app/" target="_blank">
   <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754661813/portfolio_whsdoc.png" alt="portfolio button" width="120"/>
 </a>
 
