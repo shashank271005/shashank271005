@@ -95,6 +95,10 @@
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
 
+   <a href="https://www.facebook.com/Shashank.27.10.2004/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+
 
 <a href="https://in.pinterest.com/singshashank7/_profile/">
   <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754641036/aaaaaaaaaaaaaaaaaaaa_qmedb7.png" alt="pinterest logo" width="120"/>
