@@ -179,6 +179,12 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=zukfuh3nrhn135vsfle913fz4" alt="Spotify Recently Played"/>
 </div>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/Shashank Singh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Shashank%20Singh&count=2&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
 
 ###
 
