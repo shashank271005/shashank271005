@@ -1,6 +1,6 @@
 <h1 align="center">𝕊ℍ𝔸𝕊ℍ𝔸ℕ𝕂 𝕊𝕀ℕ𝔾ℍ</h1> 
 
-###
+### 
 
 <div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
