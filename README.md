@@ -133,8 +133,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shashank271005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
- ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=shashank271005&theme=whatsapp-dark2)](https://git.io/streak-stats)
+
 
   ###
 
