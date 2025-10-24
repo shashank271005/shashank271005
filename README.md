@@ -103,7 +103,7 @@
   <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754641036/aaaaaaaaaaaaaaaaaaaa_qmedb7.png" alt="pinterest logo" width="120"/>
 </a>
 
-<a href="https://ssportfolio23154013.vercel.app/" target="_blank">
+<a href="https://portfolio-shshank2710.vercel.app/" target="_blank">
   <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754661813/portfolio_whsdoc.png" alt="portfolio button" width="120"/>
 </a>
 
