@@ -184,11 +184,6 @@
     <img src="https://leetcard.jacoblin.cool/shashanksingh2710?theme=dark&font=Karma" />
   </a>
 </p>
-###
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shashanksingh2710?theme=dark&font=Karma" />
-</p>
 
 ###
 
